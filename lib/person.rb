@@ -1,11 +1,15 @@
 # person.rb
 class Person
-  def initialize(singer)
-    @singer = singer
+  def initialize(person)
+    @person = person
   end
   
   def singer
     @singer
   end
+  
 end
+
+singer = []
+adele_goldberg = Person
 
