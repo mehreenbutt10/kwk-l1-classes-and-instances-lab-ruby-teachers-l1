@@ -12,7 +12,7 @@ end
 
 person = []
 adele_goldberg = Person.new("adele_goldberg")
-alan_key = Person.new("alan_key")
+alan_kay = Person.new("alan_key")
 
 person.push(adele_goldberg, alan_key)
 puts person
