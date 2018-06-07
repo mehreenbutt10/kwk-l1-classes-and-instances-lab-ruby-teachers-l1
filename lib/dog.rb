@@ -4,6 +4,8 @@ class Dog
   end
 end
 
+dog = []
+
 fido = Dog.new("Fido")
 snoopy = Dog.new("Snoopy")
 lassie = Dog.new("Lassie")
