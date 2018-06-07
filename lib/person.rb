@@ -5,11 +5,11 @@ class Person
   end
   
   def person
-    @singer
+    @person
   end
   
 end
 
-singer = []
+person = []
 adele_goldberg = Person
 
