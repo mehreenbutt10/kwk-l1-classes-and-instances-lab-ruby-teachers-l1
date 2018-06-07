@@ -4,7 +4,7 @@ class Person
     @person = person
   end
   
-  def singer
+  def person
     @singer
   end
   
